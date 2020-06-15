@@ -1,1 +1,20 @@
-﻿
+#include "il2cpp.h"
+
+il2cpp_domain_get il2_cpp_domain_get;
+il2cpp_domain_get_assemblies il2_cpp_domain_get_assemblies;
+il2cpp_thread_current il2_cpp_thread_current;
+il2cpp_thread_attach il2_cpp_thread_attach;
+il2cpp_thread_detach il2_cpp_thread_detach;
+il2cpp_assembly_get_image il2_cpp_assembly_get_image;
+il2cpp_image_get_assembly il2_cpp_image_get_assembly;
+il2cpp_image_get_name il2_cpp_image_get_name;
+il2cpp_image_get_filename il2_cpp_image_get_filename;
+il2cpp_image_get_class_count il2_cpp_image_get_class_count;
+il2cpp_image_get_class il2_cpp_image_get_class;
+il2cpp_class_get_name il2_cpp_class_get_name;
+il2cpp_class_get_namespace il2_cpp_class_get_namespace;
+il2cpp_class_from_name il2_cpp_class_from_name;
+il2cpp_class_get_method_from_name il2_cpp_class_get_method_from_name;
+il2cpp_method_get_name il2_cpp_method_get_name;
+il2cpp_method_get_class il2_cpp_method_get_class;
+
